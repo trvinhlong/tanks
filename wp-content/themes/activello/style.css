@@ -1747,6 +1747,6 @@ table#wp-calendar {
 
 @font-face {
 	font-family: SovietKit;  
-	src: url('/wp-content/themes/activello/inc/fonts/SOVKIT.ttf');  
+	src: url('/wp-content/themes/activello/inc/fonts/SOVKIT.TTF');  
 	font-weight: normal;  
 }
