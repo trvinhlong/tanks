@@ -1737,3 +1737,16 @@ table#wp-calendar {
 .full-width {
   width: 100%;
 }
+
+/* custom fonts */
+@font-face {
+	font-family: ArmaliteRifle;
+	src: url('/wp-content/themes/activello/inc/fonts/armalite_rifle.ttf');  
+	font-weight: normal;  
+}
+
+@font-face {
+	font-family: SovietKit;  
+	src: url('/wp-content/themes/activello/inc/fonts/SOVKIT.ttf');  
+	font-weight: normal;  
+}
